@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Buttermilk Pancakes",
+      "type": "Breakfast",
+      "description": "Pancakes made with buttermilk, oats, cornmeal and buckwheat flour",
+      "price": 15,
+      "image": ""
+    },
+    {
+      "id": 2,
+      "name": "Eggs Florentine",
+      "type": "Breakfast",
+      "description": "Two poached eggs and garlicky spinach on an English muffin with hollandaise sauce",
+      "price": 20,
+      "image": ""
+    },
+    {
+      "id": 3,
+      "name": "Migas Taco",
+      "type": "Breakfast",
+      "description": "Migas, cheese and jalapenos",
+      "price": 30,
+      "image": ""
+    },
+    {
+      "id": 4,
+      "name": "Grilled Chicken Breast",
+      "type": "Lunch",
+      "description": "Pan-seared and topped with herb butter",
+      "price": 25,
+      "image": ""
+    },
+    {
+      "id": 5,
+      "name": "Grilled Atlantic Salmon",
+      "type": "Lunch",
+      "description": "6oz salmon fillet cooked to perfection and served with two sides",
+      "price": 35,
+      "image": ""
+    },
+    {
+      "id": 6,
+      "name": "Green Chile Queso",
+      "type": "Lunch",
+      "description": "Hand cut FF's topped with green chile queso, fresh cilantro, jalapenos, red onion and avocados",
+      "price": 25,
+      "image": ""
+    },
+    {
+      "id": 7,
+      "name": "Oreo Dream",
+      "type": "Shakes",
+      "description": "Blended milk, ice cream, and Oreo cookies together for a kid-pleasing chilled drink",
+      "price": 30,
+      "image": ""
+    },
+    {
+      "id": 8,
+      "name": "Mango Shake",
+      "type": "Shakes",
+      "description": "Blended milk, ice cream, and fresh mangoes together",
+      "price": 40,
+      "image": ""
+    },
+    {
+      "id": 9,
+      "name": "Godzilla Milkshake",
+      "type": "Shakes",
+      "description": "Milo blended with banana & mint chocolate chip ice cream, drizzled with melted chocolate",
+      "price": 25,
+      "image": ""
+    },
+    {
+      "id": 10,
+      "name": "Strawberry Shake",
+      "type": "Shakes",
+      "description": "Blended strawberry ice cream, fresh strawberries and milk",
+      "price": 30,
+      "image": ""
+    }
+  ]
+}

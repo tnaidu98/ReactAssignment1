@@ -1,0 +1,119 @@
+.App {
+   text-align: center;
+}
+
+.App-logo {
+   height: 40vmin;
+   pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+   .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+   }
+}
+
+.App-header {
+   background-color: #282c34;
+   min-height: 100vh;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   font-size: calc(10px + 2vmin);
+   color: white;
+}
+
+.App-link {
+   color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+   from {
+      transform: rotate(0deg);
+   }
+
+   to {
+      transform: rotate(360deg);
+   }
+}
+
+.heading {
+   text-align: center;
+   font-weight: bold;
+   padding-top: 20px;
+   font-size: 30px;
+}
+
+hr {
+   width: 5%;
+   position: relative;
+   top: 1px;
+   height: 3px;
+}
+
+li>a {
+   color: #DAA520;
+   font-size: 20px;
+}
+
+.nav-justify-content-center {
+   list-style: none;
+   text-align: center;
+   padding-top: 40px;
+   padding-bottom: 40px;
+}
+
+ul>li {
+   display: inline;
+}
+
+.nav-link {
+   padding-right: 85px;
+}
+
+.card {
+   white-space: nowrap;
+   left: 10px;
+
+}
+
+.card-title {
+   display: inline-block;
+   padding-right: 90px;
+   color: #3293a8;
+}
+
+.card-desc {
+   display: inline-block;
+   position: relative;
+   left: 350px;
+   top: relative;
+   color: #3293a8;
+}
+
+.card-head {
+   width: 280px;
+   height: 1px;
+   left: -258px;
+
+}
+
+.nameandprice {
+   position: relative;
+   left: 350px;
+}
+
+.price {
+   color: #DAA520;
+}
+
+.image {
+   display: inline-block;
+   width: 125px;
+   height: 125px;
+   position: relative;
+   top: relative;
+   left: 350px;
+   border: 2px solid #DAA520;
+}
